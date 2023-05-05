@@ -59,7 +59,7 @@ export default function Header() {
               d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"
             />
           </svg>
-          <div className="bg-purple-400 text-white rounded-full border border-purple-400 overflow-hidden">
+          <div className="bg-purple-500 text-white rounded-full border border-purple-500 overflow-hidden">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 24 24"
